@@ -1,0 +1,15 @@
+{
+  "name": "Test PWA",
+  "short_name": "testPWA",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/laptop_chromebook_BASELINE_P900.svg",
+      "sizes": "any"
+    }
+  ]
+}
